@@ -1,0 +1,19 @@
+header {
+    background-color: #0d6efd;
+    color: #fff;
+    margin-bottom: 2rem;
+
+}
+
+header ul li a {
+    color: #fff;
+}
+
+header ul li a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.row {
+    margin-bottom: 2rem;
+}
